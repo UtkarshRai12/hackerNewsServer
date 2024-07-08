@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start":"nodemon src/index.ts"
+  },
+  "dependencies": {
+    "@apollo/datasource-rest": "^6.3.0",
+    "@apollo/server": "^4.10.4",
+    "@graphql-codegen/cli": "^5.0.2",
+    "apollo-server": "^3.13.0",
+    "nodemon": "^3.1.4"
+  }
+}
