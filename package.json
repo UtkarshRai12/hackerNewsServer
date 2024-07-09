@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodem src/index.ts"
+    "start": "nodemon src/index.ts"
   },
   "dependencies": {
     "@apollo/datasource-rest": "^6.3.0",
