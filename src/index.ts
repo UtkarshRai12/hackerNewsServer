@@ -15,6 +15,7 @@ async function startApolloServer() {
         },
       };
     },
+    listen: { port:4000 },
   });
   console.log(`
       🚀  Server is running!
